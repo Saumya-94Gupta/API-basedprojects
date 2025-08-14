@@ -15,12 +15,8 @@ A modern, feature-rich Todo API built with .NET 8 and a stunning glassmorphism f
 - **Icons:** Font Awesome
 - **API Documentation:** Swagger/OpenAPI
 
-## 📷 Screenshots
-[Add screenshots of your beautiful UI]
 
 ## 🚀 Getting Started
 ```bash
-git clone https://github.com/yourusername/todo-api
-cd todo-api
-dotnet restore
-dotnet run
+git clone https://github.com/Saumya-94Gupta/API-basedprojects/todo-api
+
